@@ -48,7 +48,7 @@ int main()//메인함수
 
 	printf("[----- [Yuseong Jin] [2018038022] -----]");//이름, 학번 출력
 	do{//do-while문을 통하여 반복 출력
-		//메뉴출력
+		
 		printf("\n\n");
 		printf("----------------------------------------------------------------\n");
 		printf("                         Graph search                           \n");
@@ -58,6 +58,7 @@ int main()//메인함수
 		printf(" Depth First Search     = d      Breath First Search        = b \n");
 		printf(" Print Graph            = p      Quit                       = q \n");
 		printf("----------------------------------------------------------------\n");
+		//메뉴출력
 
 		printf("Command = ");
 		scanf(" %c", &command);
