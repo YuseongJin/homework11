@@ -1,4 +1,4 @@
-/*graph*/
+/* graph */
 
 //필요한 헤더 파일 
 #include <stdio.h>
